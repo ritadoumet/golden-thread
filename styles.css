@@ -135,9 +135,10 @@ nav h2 img{    width: 32px;
     height: fit-content;}
 #home{
     width: 100%;
-    background-image: url(images/clothes/hanged_uniforms_no_color.jpg);
+    background-image: url(images/clothes/background.jpeg);
     background-size: cover;
     height: 90vh;
+    background-position: center center;
     /* margin: 40px auto; */
     display: flex;
     flex-wrap: wrap;
@@ -622,6 +623,7 @@ fieldset{border-radius: 20px;
     }
     #home{
         margin: auto;
+        height: 55vh;
     }
     #home article{
         width: 100%;

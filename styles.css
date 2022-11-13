@@ -3,7 +3,7 @@
     --light-accent:#BB9B73;/*bring attention to design elements by contrasting with the rest of the palette.*/
     --main-color:#775F57;/* It can be liberally applied to your layout as its main identity.*/
     --dark-accent:#8B8981;/*Another accent color to consider.*/
-    --dark-shade:#333F41;/*Use as the text color for dark-on-light designs, or as the background for inverted designs.*/
+    --dark-shade:#392d17;/*Use as the text color for dark-on-light designs, or as the background for inverted designs.*/
 }
 *{
     transition: 0.3s;
